@@ -2,6 +2,33 @@
 
 This repository contains the L3 user stories for Case Linking.
 
+## L2 User Stories (Reference)
+
+### L2-US-01: Identify related cases
+**As a** case handling user  
+**I want to** identify cases that are related to each other  
+**So that** I can avoid duplicate work and improve resolution quality.
+
+### L2-US-02: Establish case relationships
+**As a** case handling user  
+**I want to** create and manage links between related cases  
+**So that** dependencies and relationships are clearly tracked.
+
+### L2-US-03: View linked case context
+**As a** case handling user  
+**I want to** view all linked cases and their statuses from a case record  
+**So that** I can quickly understand the full case context.
+
+### L2-US-04: Maintain link quality
+**As a** case handling user  
+**I want the system to** prevent invalid or duplicate links  
+**So that** case relationships remain accurate over time.
+
+### L2-US-05: Control and audit link changes
+**As a** case handling user  
+**I want to** restrict link updates to authorized roles and track changes  
+**So that** case-linking actions are secure and auditable.
+
 ## L3 User Stories
 
 ### US-01: Search and identify related cases
